@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- ejemplo1.xml CJ16005-->
+
+<?xml-stylesheet type="text/css" href="ejercicio1b.css" ?>
+
+<fichero>
+  <ficha1 id="1" fechaingreso="1/11/2012">
+    <nombre>Antonio</nombre>
+    <apellido>Barbero</apellido>
+    <direccion>Calle de los Andes</direccion>
+  </ficha1>
+  
+  <ficha2 fechaactual="1/9/2021">
+    <nombre>Roberto Isaac</nombre>
+    <apellido>Clímaco Jiménez</apellido>
+    <telefono>1234-5678</telefono>
+    <email>ejercicio1a@gmail.com</email>
+    <url>www.youtube.com</url>
+  </ficha2>
+  
+  <ficha3 fechaactual="2/9/2021">
+    <nombre>Roberto Isaac</nombre>
+    <apellido>Clímaco Jiménez</apellido>
+    <telefono>1234-5678</telefono>
+    <email>ejercicio1a@gmail.com</email>
+    <url>www.youtube.com</url>
+    <dui>12345678-0</dui>
+    <isss>00000000</isss>
+    <afp>11111111</afp>
+  </ficha3>
+  
+</fichero>

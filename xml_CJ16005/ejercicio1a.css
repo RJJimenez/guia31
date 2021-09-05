@@ -1,0 +1,10 @@
+/*ejercicio1a.css CJ16005*/
+
+fichero{background-color: orange;}
+
+nombre{color: pink; display:inline;}
+apellido{color:red; display:inline;}
+direccion{color:green; display:inline;}
+
+telefono{brackground-color: white; color:blue; display:inline;}
+email{color:black; font-style: italic; display:inline;}

@@ -1,0 +1,7 @@
+/*ejemplo2.css CJ16005*/
+
+pais{background-color:black;}
+departamento{color:yellow; display:block;}
+cabecera{color:green; font-size:2cm;font-style:italic; display:inline;}
+habitantes{color:brown; font-size:2cm; display:inline;}
+altura{color:yellow; font-size:2cm; display:none;}
